@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.bmshamsnahid.matching_image_puzzle.test">
+
+    <uses-sdk android:minSdkVersion="8" android:targetSdkVersion="18" />
+
+    <application>
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.test.InstrumentationTestRunner"
+                     android:targetPackage="com.bmshamsnahid.matching_image_puzzle"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for com.bmshamsnahid.matching_image_puzzle"/>
+</manifest>

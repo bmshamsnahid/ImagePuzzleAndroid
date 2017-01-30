@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/bmshamsnahid/AndroidStudioProjects/Matching_Image_Puzzle/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e111020e2857df2bbca126fbeaa00f4c69de975">
+        <dex dex="/home/bmshamsnahid/AndroidStudioProjects/Matching_Image_Puzzle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_220b1801aff8cca093eec67110aae25e9eb1ad71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bmshamsnahid/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/home/bmshamsnahid/AndroidStudioProjects/Matching_Image_Puzzle/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_742b72f72cacb27c956226dd43538fef0b3b0469/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bmshamsnahid/AndroidStudioProjects/Matching_Image_Puzzle/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9e47830caee966709f361bef6a0c6ff88b8753a">
+        <dex dex="/home/bmshamsnahid/AndroidStudioProjects/Matching_Image_Puzzle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f3fba270932d2ffa6ea40ddd814cc06321a0913e/classes.dex" />
+    </item>
+
+</items>

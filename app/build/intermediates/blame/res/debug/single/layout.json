@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/bmshamsnahid/AndroidStudioProjects/Matching_Image_Puzzle/app/build/intermediates/res/merged/debug/layout/image_layout.xml",
+        "source": "/home/bmshamsnahid/AndroidStudioProjects/Matching_Image_Puzzle/app/src/main/res/layout/image_layout.xml"
+    },
+    {
+        "merged": "/home/bmshamsnahid/AndroidStudioProjects/Matching_Image_Puzzle/app/build/intermediates/res/merged/debug/layout/host_screen.xml",
+        "source": "/home/bmshamsnahid/AndroidStudioProjects/Matching_Image_Puzzle/app/src/main/res/layout/host_screen.xml"
+    }
+]

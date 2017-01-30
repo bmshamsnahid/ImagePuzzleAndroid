@@ -1,0 +1,7 @@
+#Sun Jan 29 17:53:45 BDT 2017
+base.0=/home/bmshamsnahid/AndroidStudioProjects/Matching_Image_Puzzle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f3fba270932d2ffa6ea40ddd814cc06321a0913e
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/bmshamsnahid/AndroidStudioProjects/Matching_Image_Puzzle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_220b1801aff8cca093eec67110aae25e9eb1ad71/classes.dex
+base.1=/home/bmshamsnahid/AndroidStudioProjects/Matching_Image_Puzzle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_220b1801aff8cca093eec67110aae25e9eb1ad71
+file.0=/home/bmshamsnahid/AndroidStudioProjects/Matching_Image_Puzzle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f3fba270932d2ffa6ea40ddd814cc06321a0913e/classes.dex

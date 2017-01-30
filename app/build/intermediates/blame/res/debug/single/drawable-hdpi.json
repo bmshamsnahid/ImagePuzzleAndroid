@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/bmshamsnahid/AndroidStudioProjects/Matching_Image_Puzzle/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/bmshamsnahid/AndroidStudioProjects/Matching_Image_Puzzle/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/bmshamsnahid/AndroidStudioProjects/Matching_Image_Puzzle/app/build/intermediates/res/merged/debug/drawable-hdpi/image_three.png",
+        "source": "/home/bmshamsnahid/AndroidStudioProjects/Matching_Image_Puzzle/app/src/main/res/drawable-hdpi/image_three.png"
+    },
+    {
+        "merged": "/home/bmshamsnahid/AndroidStudioProjects/Matching_Image_Puzzle/app/build/intermediates/res/merged/debug/drawable-hdpi/image_four.png",
+        "source": "/home/bmshamsnahid/AndroidStudioProjects/Matching_Image_Puzzle/app/src/main/res/drawable-hdpi/image_four.png"
+    },
+    {
+        "merged": "/home/bmshamsnahid/AndroidStudioProjects/Matching_Image_Puzzle/app/build/intermediates/res/merged/debug/drawable-hdpi/image_eight.png",
+        "source": "/home/bmshamsnahid/AndroidStudioProjects/Matching_Image_Puzzle/app/src/main/res/drawable-hdpi/image_eight.png"
+    },
+    {
+        "merged": "/home/bmshamsnahid/AndroidStudioProjects/Matching_Image_Puzzle/app/build/intermediates/res/merged/debug/drawable-hdpi/image_five.png",
+        "source": "/home/bmshamsnahid/AndroidStudioProjects/Matching_Image_Puzzle/app/src/main/res/drawable-hdpi/image_five.png"
+    },
+    {
+        "merged": "/home/bmshamsnahid/AndroidStudioProjects/Matching_Image_Puzzle/app/build/intermediates/res/merged/debug/drawable-hdpi/image_one.png",
+        "source": "/home/bmshamsnahid/AndroidStudioProjects/Matching_Image_Puzzle/app/src/main/res/drawable-hdpi/image_one.png"
+    },
+    {
+        "merged": "/home/bmshamsnahid/AndroidStudioProjects/Matching_Image_Puzzle/app/build/intermediates/res/merged/debug/drawable-hdpi/image_two.png",
+        "source": "/home/bmshamsnahid/AndroidStudioProjects/Matching_Image_Puzzle/app/src/main/res/drawable-hdpi/image_two.png"
+    },
+    {
+        "merged": "/home/bmshamsnahid/AndroidStudioProjects/Matching_Image_Puzzle/app/build/intermediates/res/merged/debug/drawable-hdpi/main_image.png",
+        "source": "/home/bmshamsnahid/AndroidStudioProjects/Matching_Image_Puzzle/app/src/main/res/drawable-hdpi/main_image.png"
+    },
+    {
+        "merged": "/home/bmshamsnahid/AndroidStudioProjects/Matching_Image_Puzzle/app/build/intermediates/res/merged/debug/drawable-hdpi/image_six.png",
+        "source": "/home/bmshamsnahid/AndroidStudioProjects/Matching_Image_Puzzle/app/src/main/res/drawable-hdpi/image_six.png"
+    },
+    {
+        "merged": "/home/bmshamsnahid/AndroidStudioProjects/Matching_Image_Puzzle/app/build/intermediates/res/merged/debug/drawable-hdpi/image_seven.png",
+        "source": "/home/bmshamsnahid/AndroidStudioProjects/Matching_Image_Puzzle/app/src/main/res/drawable-hdpi/image_seven.png"
+    },
+    {
+        "merged": "/home/bmshamsnahid/AndroidStudioProjects/Matching_Image_Puzzle/app/build/intermediates/res/merged/debug/drawable-hdpi/image_zero.png",
+        "source": "/home/bmshamsnahid/AndroidStudioProjects/Matching_Image_Puzzle/app/src/main/res/drawable-hdpi/image_zero.png"
+    },
+    {
+        "merged": "/home/bmshamsnahid/AndroidStudioProjects/Matching_Image_Puzzle/app/build/intermediates/res/merged/debug/drawable-hdpi/image_last.png",
+        "source": "/home/bmshamsnahid/AndroidStudioProjects/Matching_Image_Puzzle/app/src/main/res/drawable-hdpi/image_last.png"
+    }
+]

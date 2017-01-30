@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center" >
+        
+        <ImageView
+            android:id="@+id/image_viewer_zero"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:id="@+id/image_viewer_one"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:id="@+id/image_viewer_two"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center" >
+        
+        <ImageView
+            android:id="@+id/image_viewer_three"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:id="@+id/image_viewer_four"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:id="@+id/image_viewer_five"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center" >
+        
+        <ImageView
+            android:id="@+id/image_viewer_six"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:id="@+id/image_viewer_seven"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:id="@+id/image_viewer_eight"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    
+    <Button
+        android:id="@+id/host_screen_button_show_image"
+        android:layout_width="300dp" 
+        android:layout_height="wrap_content"
+        android:text="See Image"
+        android:gravity="center"
+        android:layout_gravity="center" />
+    
+    
+    <Button
+        android:id="@+id/host_screen_button_reset"
+        android:layout_width="300dp" 
+        android:layout_height="wrap_content"
+        android:text="Reset"
+        android:gravity="center"
+        android:layout_gravity="center" />
+    
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="bottom"
+        android:orientation="horizontal" >
+
+        
+		<LinearLayout
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:gravity="center"
+		    android:id="@+id/linear_layout_up"
+		    android:layout_above="@+id/linear_layout_lr" >
+		    <Button
+	            android:id="@+id/button_up"
+	            android:layout_width="150dp"
+	            android:layout_height="50dp"
+	            android:text="Up"
+	            android:gravity="center" />
+		</LinearLayout>
+        
+        
+        <LinearLayout
+            android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:id="@+id/linear_layout_lr"
+		    android:layout_above="@+id/linear_layout_down"
+		    android:gravity="center" >
+			<Button
+	            android:id="@+id/button_left"
+	            android:layout_width="150dp"
+	            android:layout_height="50dp"
+	            android:gravity="center"
+	            android:text="left" />
+            <Button
+	            android:id="@+id/button_right"
+	            android:layout_width="150dp"
+	            android:layout_height="50dp"
+	            android:text="Right" />    
+        </LinearLayout>
+        
+        <LinearLayout
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:gravity="center"
+		    android:layout_alignParentBottom="true"
+		    android:id="@+id/linear_layout_down" >
+		    <Button
+	            android:id="@+id/button_down"
+	            android:layout_width="150dp"
+	            android:layout_height="50dp"
+	            android:text="Down"
+	            android:gravity="center" />
+		</LinearLayout>
+        
+    </RelativeLayout>
+    
+
+</LinearLayout>
